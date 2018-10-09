@@ -1,3 +1,7 @@
 test2
 2018/10/09 23:19
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
